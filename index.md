@@ -34,7 +34,6 @@ Renting a car in Split is not expensive, but there are some additional fees for 
 Where to sleep
 ---------------------
 
-
 * In Livno (town):
 	* [B&M](https://www.booking.com/hotel/ba/b-m-livno.en-gb.html?aid=389184;label=metagha-link-mapresultsDE-hotel-2405203_dev-desktop_los-1_bw-17_dow-Tuesday_defdate-1_room-0_lang-en_curr-EUR_gstadt-2_rateid-0_aud-102523974_cid-67;sid=385b6669b77ac3210ae5d051a33fa41c;all_sr_blocks=240520301_102247697_0_1_0;checkin=2018-09-25;checkout=2018-09-26;dest_id=-87179;dest_type=city;dist=0;group_adults=2;hapos=1;highlighted_blocks=240520301_102247697_0_1_0;hpos=1;room1=A%2CA;sb_price_type=total;srepoch=1536415085;srfid=741201b973af4ac9ec3924df7d2e1864c8cdedeeX1;srpvid=e5686236cb930254;type=total;ucfs=1&#hotelTmpl): modern
 	* [Hotel park](https://www.booking.com/hotel/ba/park-livno.en-gb.html?aid=389184&label=metagha-link-mapresultsDE-hotel-2405203_dev-desktop_los-1_bw-17_dow-Tuesday_defdate-1_room-0_lang-en_curr-EUR_gstadt-2_rateid-0_aud-102523974_cid-67&sid=385b6669b77ac3210ae5d051a33fa41c&checkin=2018-09-25&checkout=2018-09-26&ucfs=1&srpvid=7a62624f83980088&srepoch=1536415136&highlighted_blocks=38083504_112503334_0_1_0&all_sr_blocks=38083504_112503334_0_1_0&room1=A,A&hpos=2&hapos=2&dest_type=city&dest_id=-87179&srfid=083f09458ea628c4fc9a2deca9ad5fd6e4b52fabX2&from=searchresults;highlight_room=#hotelTmpl): good food, nice park, a little bit old-fashion but ok
@@ -57,24 +56,6 @@ What to do if you stay longer
 Contact
 ---------------------
 
-* Adrian: adilemmenmeier@hotmail.com, +41 78 884 54 14
-* Dolores: batinic.dolores@gmail.com, +49 176 301 553 72
+* Adrian: [adilemmenmeier@hotmail.com](mailto:adilemmenmeier@hotmail.com), +41 78 884 54 14
+* Dolores: [batinic.dolores@gmail.com](mailto:batinic.dolores@gmail.com), +49 176 301 553 72
 
-
-
-<!--You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
--->
