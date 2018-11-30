@@ -32,11 +32,11 @@ How to arrive to Podhum
 * Having a car/renting a car at the Split Airport is the best option, since the public transport is not well organised. If you want to go anyplace else than the hotel, a car is a must in Bosnia & Herzegowina.
 Renting a car in Split is not expensive, but there are some additional fees for crossing the border with Bosnia & Herzegowina.
 
-* From [Split Airport with a rented car](https://goo.gl/maps/a4NuYBwwwAp).
+* From [Split Airport with a car rental](https://goo.gl/maps/a4NuYBwwwAp).
 
 * From Split Airport with no car: contact us for picking you up.
 
-* You can also arrive with the [bus](https://getbybus.com/en/bus-zurich-to-livno), but we do not recommend if you are only staying for a weekend (it takes forever)
+* You can also arrive by [bus](https://getbybus.com/en/bus-zurich-to-livno), but we do not recommend if you are only staying for a weekend (it takes forever)
 
 * You can check other lines here: [rome2rio](https://www.rome2rio.com/de/s/Z%C3%BCrich/Livno)
 
