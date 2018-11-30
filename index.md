@@ -22,7 +22,8 @@ __09.06.2019.__
 
 * Chilling at Dolores' place in [Batinića Brdo](https://goo.gl/maps/wY7uqdbcUWA2) 
 
-<img src="images/kuca.jpg" width="300" hight="300"> <img src="images/adi.jpeg" width="320" hight="320">
+<img src="images/kuca.jpg" width="300" hight="300"><img src="images/adi.jpeg" width="320" hight="320">
+<!--<img src="images/kuca_baba.jpg" width="300" hight="300">-->
 
 
 
@@ -36,7 +37,7 @@ Renting a car in Split is not expensive, but there are some additional fees for 
 
 * From Split Airport with no car: contact us for picking you up.
 
-* You can also arrive by [bus](https://getbybus.com/en/bus-zurich-to-livno), but we do not recommend if you are only staying for a weekend (it takes forever)
+* You can also arrive by [bus](https://getbybus.com/en/bus-zurich-to-livno), but we do not recommend it if you are only staying for a weekend (it takes forever)
 
 * You can check other lines here: [rome2rio](https://www.rome2rio.com/de/s/Z%C3%BCrich/Livno)
 
@@ -56,6 +57,7 @@ What to do if you stay longer
 * Stari grad [Livno](http://www.bhtourism.ba/eng/livno.wbsp)
 
 <img src="images/izvor_bistrice.jpeg" width="320" hight="320">
+
 * Tušnica hiking
 
 <img src="images/tusnica.jpeg" width="320" hight="320"><img src="images/tusnica_2.jpeg" width="320" hight="320"><img src="images/tusnica_3.jpeg" width="320" hight="320"><img src="images/tusnica_4.JPG" width="320" hight="320">
