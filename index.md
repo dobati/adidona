@@ -22,8 +22,8 @@ __09.06.2019.__
 
 * Chilling at Dolores' place in [Batinića Brdo](https://goo.gl/maps/wY7uqdbcUWA2) 
 
-<img src="images/kuca.jpg" width="300" hight="300"><img src="images/adi.jpeg" width="320" hight="320">
-<!--<img src="images/kuca_baba.jpg" width="300" hight="300">-->
+<img src="images/kuca.jpg" width="300" hight="300">
+<!--<<img src="images/adi.jpeg" width="320" hight="320"><img src="images/kuca_baba.jpg" width="300" hight="300">-->
 
 
 
