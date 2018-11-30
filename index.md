@@ -10,15 +10,21 @@ categories: jekyll update
 Place and time
 ---------------------
 
-08.06.2019.
+__08.06.2019.__
 
-* 18:00: [Crkva Sv. Ivana Krstitelja](https://goo.gl/maps/peU1WGbiJ9A2), Podhum Livno, 80101, BiH
+* 18:00: [Crkva Sv. Ivana Krstitelja](https://goo.gl/maps/peU1WGbiJ9A2), Podhum Livno, 80101, BiH 
+
+![Foto](images/crkva.jpeg)
 
 * 20:00: [Svadbeni salon Rustikana](https://www.facebook.com/pg/Rustikana-Svadbeni-Salon-151493608260287/about/?ref=page_internal), Podhum Livno, 80101, BiH
 
-09.06.2019.
+__09.06.2019.__
 
-* Chilling at Dolores' place in [Batinića Brdo](https://goo.gl/maps/wY7uqdbcUWA2)
+* Chilling at Dolores' place in [Batinića Brdo](https://goo.gl/maps/wY7uqdbcUWA2) 
+
+<img src="images/kuca.jpg" width="300" hight="300"> <img src="images/adi.jpeg" width="320" hight="320">
+
+
 
 How to arrive to Podhum
 ---------------------
@@ -30,6 +36,9 @@ Renting a car in Split is not expensive, but there are some additional fees for 
 
 * From Split Airport with no car: contact us for picking you up.
 
+* You can also arrive with the [bus](https://getbybus.com/en/bus-zurich-to-livno), but we do not recommend if you are only staying for a weekend (it takes forever)
+
+* You can check other lines here: [rome2rio](https://www.rome2rio.com/de/s/Z%C3%BCrich/Livno)
 
 Where to sleep
 ---------------------
@@ -44,14 +53,27 @@ Where to sleep
 What to do if you stay longer
 ---------------------
 
-* Stari grad Livno/Bašjakovac
+* Stari grad [Livno](http://www.bhtourism.ba/eng/livno.wbsp)
+
+<img src="images/izvor_bistrice.jpeg" width="320" hight="320">
 * Tušnica hiking
-* Kamešnica hiking
+
+<img src="images/tusnica.jpeg" width="320" hight="320"><img src="images/tusnica_2.jpeg" width="320" hight="320"><img src="images/tusnica_3.jpeg" width="320" hight="320"><img src="images/tusnica_4.JPG" width="320" hight="320">
+
 * Lake Mandek
-* Looking for wild horses in Kruzi
-* Nearest bigger cities: Split 1.5h, Mostar 2.5h, Sarajevo 3.5h with a car.
-* Adriatic sea: nearest town: Makarska, 1.15 h
-* Imotski lakes: 1h
+
+<img src="images/mandek.jpeg" width="320" hight="320"><img src="images/mandek_oblacno.jpeg" width="320" hight="320"><img src="images/mandek2.jpeg" width="320" hight="320"><img src="images/mandek3.jpeg" width="320" hight="320">
+
+* [Imotski](https://visitimota.com/) lakes: 1h
+
+<img src="images/crveno_jezero.jpeg" width="320" hight="320"><img src="images/modro_jezero.jpeg" width="320" hight="320">
+
+* [Kamešnica hiking](https://www.summitpost.org/kamesnica/152350)
+* Looking for wild horses in [Kruzi](http://www.balkaninsight.com/en/article/herzegovina-herd-of-wild-horses-near-livno)
+* Nearest bigger cities: Split 1.5h, Mostar 2.5h, Sarajevo 3.5h by car
+* Nearest town at the Adriatic sea: [Makarska](https://www.makarskainfo.com/), 1.15 h by car
+
+
 
 Contact
 ---------------------
