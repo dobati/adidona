@@ -81,5 +81,5 @@ Contact
 ---------------------
 
 * Adrian: [adilemmenmeier@hotmail.com](mailto:adilemmenmeier@hotmail.com), +41 78 884 54 14
-* Dolores: [batinic.dolores@gmail.com](mailto:batinic.dolores@gmail.com), +49 176 301 553 72
+* Dolores: [batinic.dolores@gmail.com](mailto:batinic.dolores@gmail.com), +41 77 526 58 18
 
